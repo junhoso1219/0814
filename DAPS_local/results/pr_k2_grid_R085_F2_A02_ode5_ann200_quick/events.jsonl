@@ -1,0 +1,778 @@
+{"mode": "used", "sigma_used": 100.0}
+{"mode": "used", "sigma_used": 97.82520294189453}
+{"mode": "used", "sigma_used": 95.69107818603516}
+{"mode": "used", "sigma_used": 93.59698486328125}
+{"mode": "used", "sigma_used": 91.54228973388672}
+{"mode": "used", "sigma_used": 89.52638244628906}
+{"mode": "used", "sigma_used": 87.54864501953125}
+{"mode": "used", "sigma_used": 85.60847473144531}
+{"mode": "used", "sigma_used": 83.70527648925781}
+{"mode": "used", "sigma_used": 81.83846282958984}
+{"mode": "used", "sigma_used": 80.0074462890625}
+{"mode": "cess", "sigma": 80.0074462890625, "next_sigma": 40.00738525390625, "dgamma": 0.0004685483457222972, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 40.00738525390625}
+{"mode": "cess", "sigma": 40.00738525390625, "next_sigma": 36.007015228271484, "dgamma": 0.0018738502743076424, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 36.007015228271484}
+{"mode": "cess", "sigma": 36.007015228271484, "next_sigma": 32.40664291381836, "dgamma": 0.00231334792601956, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 32.40664291381836}
+{"mode": "cess", "sigma": 32.40664291381836, "next_sigma": 29.166275024414062, "dgamma": 0.0028559268946537486, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 29.166275024414062}
+{"mode": "cess", "sigma": 29.166275024414062, "next_sigma": 26.249916076660156, "dgamma": 0.0035257642309716175, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 26.249916076660156}
+{"mode": "cess", "sigma": 26.249916076660156, "next_sigma": 23.625165939331055, "dgamma": 0.0043527061916392995, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 23.625165939331055}
+{"mode": "cess", "sigma": 23.625165939331055, "next_sigma": 21.26286506652832, "dgamma": 0.005373601800329197, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 21.26286506652832}
+{"mode": "cess", "sigma": 21.26286506652832, "next_sigma": 19.13677406311035, "dgamma": 0.006633941575273639, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 19.13677406311035}
+{"mode": "cess", "sigma": 19.13677406311035, "next_sigma": 17.2232723236084, "dgamma": 0.00818988359242212, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 17.2232723236084}
+{"mode": "cess", "sigma": 17.2232723236084, "next_sigma": 15.501102447509766, "dgamma": 0.010110761855912642, "cess": 0.9999998211860657, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 15.501102447509766}
+{"mode": "cess", "sigma": 15.501102447509766, "next_sigma": 13.951133728027344, "dgamma": 0.012482168223186818, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 13.951133728027344}
+{"mode": "cess", "sigma": 13.951133728027344, "next_sigma": 12.556147575378418, "dgamma": 0.015409772688599332, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 12.556147575378418}
+{"mode": "cess", "sigma": 12.556147575378418, "next_sigma": 11.300647735595703, "dgamma": 0.019024023551992286, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 11.300647735595703}
+{"mode": "cess", "sigma": 11.300647735595703, "next_sigma": 10.170686721801758, "dgamma": 0.023485973281367478, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 10.170686721801758}
+{"mode": "cess", "sigma": 10.170686721801758, "next_sigma": 9.153711318969727, "dgamma": 0.02899443491060083, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 9.153711318969727}
+{"mode": "cess", "sigma": 9.153711318969727, "next_sigma": 8.238424301147461, "dgamma": 0.03579487120532576, "cess": 0.9999999403953552, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 8.238424301147461}
+{"mode": "cess", "sigma": 8.238424301147461, "next_sigma": 7.4146575927734375, "dgamma": 0.0441902959255458, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 7.4146575927734375}
+{"mode": "cess", "sigma": 7.4146575927734375, "next_sigma": 6.673259735107422, "dgamma": 0.05455480450109462, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 6.673259735107422}
+{"mode": "cess", "sigma": 6.673259735107422, "next_sigma": 6.00599479675293, "dgamma": 0.06735024249792332, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 6.00599479675293}
+{"mode": "cess", "sigma": 6.00599479675293, "next_sigma": 5.405450344085693, "dgamma": 0.0831467567513755, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 5.405450344085693}
+{"mode": "cess", "sigma": 5.405450344085693, "next_sigma": 4.864954948425293, "dgamma": 0.10264822543831542, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 4.864954948425293}
+{"mode": "cess", "sigma": 4.864954948425293, "next_sigma": 4.378503799438477, "dgamma": 0.12672360619035317, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 4.378503799438477}
+{"mode": "cess", "sigma": 4.378503799438477, "next_sigma": 3.9406936168670654, "dgamma": 0.1564457441418199, "cess": 0.9999998211860657, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 3.9406936168670654}
+{"mode": "cess", "sigma": 3.9406936168670654, "next_sigma": 3.5466604232788086, "dgamma": 0.19313896951643983, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 3.5466604232788086}
+{"mode": "cess", "sigma": 3.5466604232788086, "next_sigma": 3.1920270919799805, "dgamma": 0.2384382854870637, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 3.1920270919799805}
+{"mode": "cess", "sigma": 3.1920270919799805, "next_sigma": 2.8728537559509277, "dgamma": 0.29436218726914376, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 2.8728537559509277}
+{"mode": "cess", "sigma": 2.8728537559509277, "next_sigma": 2.585594654083252, "dgamma": 0.363402732546092, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 2.585594654083252}
+{"mode": "cess", "sigma": 2.585594654083252, "next_sigma": 2.327058792114258, "dgamma": 0.4486362300667679, "cess": 0.9999997019767761, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 2.327058792114258}
+{"mode": "cess", "sigma": 2.327058792114258, "next_sigma": 2.094374179840088, "dgamma": 0.553860594809521, "cess": 0.9999998211860657, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 2.094374179840088}
+{"mode": "cess", "sigma": 2.094374179840088, "next_sigma": 1.884955883026123, "dgamma": 0.683764732821146, "cess": 0.9999997019767761, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 1.884955883026123}
+{"mode": "cess", "sigma": 1.884955883026123, "next_sigma": 1.6964775323867798, "dgamma": 0.8441368085914291, "cess": 0.9999995231628418, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 1.6964775323867798}
+{"mode": "cess", "sigma": 1.6964775323867798, "next_sigma": 1.5268453359603882, "dgamma": 1.0421229852363467, "cess": 0.9999989867210388, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 1.5268453359603882}
+{"mode": "cess", "sigma": 1.5268453359603882, "next_sigma": 1.3741748332977295, "dgamma": 1.28654545682366, "cess": 0.9999979138374329, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 1.3741748332977295}
+{"mode": "cess", "sigma": 1.3741748332977295, "next_sigma": 1.2367699146270752, "dgamma": 1.5882952662650496, "cess": 0.9999958276748657, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 1.2367699146270752}
+{"mode": "cess", "sigma": 1.2367699146270752, "next_sigma": 1.113104224205017, "dgamma": 1.9608185604738537, "cess": 0.9999920129776001, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 1.113104224205017}
+{"mode": "cess", "sigma": 1.113104224205017, "next_sigma": 1.001803994178772, "dgamma": 2.420714517356828, "cess": 0.9999837875366211, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 1.001803994178772}
+{"mode": "cess", "sigma": 1.001803994178772, "next_sigma": 0.9016327857971191, "dgamma": 2.988475573947653, "cess": 0.9999661445617676, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.9016327857971191}
+{"mode": "cess", "sigma": 0.9016327857971191, "next_sigma": 0.811477780342102, "dgamma": 3.68940046580974, "cess": 0.9999331831932068, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.811477780342102}
+{"mode": "cess", "sigma": 0.811477780342102, "next_sigma": 0.7303375005722046, "dgamma": 4.554722505854443, "cess": 0.9998646974563599, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.7303375005722046}
+{"mode": "cess", "sigma": 0.7303375005722046, "next_sigma": 0.657310426235199, "dgamma": 5.622999344486743, "cess": 0.9997323155403137, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.657310426235199}
+{"mode": "cess", "sigma": 0.657310426235199, "next_sigma": 0.5915853977203369, "dgamma": 6.941832978045568, "cess": 0.999487578868866, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.5915853977203369}
+{"mode": "cess", "sigma": 0.5915853977203369, "next_sigma": 0.5324323177337646, "dgamma": 8.56998972594738, "cess": 0.9989848136901855, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.5324323177337646}
+{"mode": "cess", "sigma": 0.5324323177337646, "next_sigma": 0.47919395565986633, "dgamma": 10.580017904285342, "cess": 0.9980341196060181, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.47919395565986633}
+{"mode": "cess", "sigma": 0.47919395565986633, "next_sigma": 0.43127894401550293, "dgamma": 13.061484759673476, "cess": 0.9961431622505188, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.43127894401550293}
+{"mode": "cess", "sigma": 0.43127894401550293, "next_sigma": 0.3881549835205078, "dgamma": 16.124960901215672, "cess": 0.992255687713623, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.3881549835205078}
+{"mode": "cess", "sigma": 0.3881549835205078, "next_sigma": 0.34934303164482117, "dgamma": 19.906958173960447, "cess": 0.9851635098457336, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.34934303164482117}
+{"mode": "cess", "sigma": 0.34934303164482117, "next_sigma": 0.3144119381904602, "dgamma": 24.575991639867425, "cess": 0.9721185564994812, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.3144119381904602}
+{"mode": "cess", "sigma": 0.3144119381904602, "next_sigma": 0.28297361731529236, "dgamma": 30.34010985866189, "cess": 0.9479145407676697, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.28297361731529236}
+{"mode": "cess", "sigma": 0.28297361731529236, "next_sigma": 0.2546788454055786, "dgamma": 37.456169966608286, "cess": 0.9088796973228455, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.2546788454055786}
+{"mode": "cess", "sigma": 0.2546788454055786, "next_sigma": 0.229366272687912, "dgamma": 45.507252886891365, "cess": 0.850043773651123, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.229366272687912}
+{"mode": "cess", "sigma": 0.229366272687912, "next_sigma": 0.20924246311187744, "dgamma": 41.320546656847, "cess": 0.8500639796257019, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.20924246311187744}
+{"mode": "cess", "sigma": 0.20924246311187744, "next_sigma": 0.19301575422286987, "dgamma": 38.0912014413625, "cess": 0.8500494956970215, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.19301575422286987}
+{"mode": "cess", "sigma": 0.19301575422286987, "next_sigma": 0.1797778159379959, "dgamma": 35.328390296548605, "cess": 0.8500968217849731, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.1797778159379959}
+{"mode": "cess", "sigma": 0.1797778159379959, "next_sigma": 0.16866371035575867, "dgamma": 33.87897543609142, "cess": 0.8500809073448181, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.16866371035575867}
+{"mode": "cess", "sigma": 0.16866371035575867, "next_sigma": 0.15921583771705627, "dgamma": 32.67229210585356, "cess": 0.8501049280166626, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.15921583771705627}
+{"mode": "cess", "sigma": 0.15921583771705627, "next_sigma": 0.1510602980852127, "dgamma": 31.839804254472256, "cess": 0.8500373959541321, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.1510602980852127}
+{"mode": "cess", "sigma": 0.1510602980852127, "next_sigma": 0.14406856894493103, "dgamma": 30.363494761288166, "cess": 0.8502122163772583, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.14406856894493103}
+{"mode": "cess", "sigma": 0.14406856894493103, "next_sigma": 0.13791102170944214, "dgamma": 29.747493915259838, "cess": 0.850220799446106, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.13791102170944214}
+{"mode": "cess", "sigma": 0.13791102170944214, "next_sigma": 0.13246211409568787, "dgamma": 29.07437101006508, "cess": 0.8502377867698669, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.13246211409568787}
+{"mode": "cess", "sigma": 0.13246211409568787, "next_sigma": 0.1274888664484024, "dgamma": 29.386685848236084, "cess": 0.8502585291862488, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.1274888664484024}
+{"mode": "cess", "sigma": 0.1274888664484024, "next_sigma": 0.12306706607341766, "dgamma": 28.52465980499983, "cess": 0.8503236174583435, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.12306706607341766}
+{"mode": "cess", "sigma": 0.12306706607341766, "next_sigma": 0.11895309388637543, "dgamma": 29.16049673035741, "cess": 0.8502691388130188, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.11895309388637543}
+{"mode": "cess", "sigma": 0.11895309388637543, "next_sigma": 0.11528044939041138, "dgamma": 28.158450841903687, "cess": 0.8503966331481934, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.11528044939041138}
+{"mode": "cess", "sigma": 0.11528044939041138, "next_sigma": 0.11193396151065826, "dgamma": 27.721578001976013, "cess": 0.8502217531204224, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.11193396151065826}
+{"mode": "cess", "sigma": 0.11193396151065826, "next_sigma": 0.1088348999619484, "dgamma": 27.708682537078857, "cess": 0.8500940203666687, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.1088348999619484}
+{"mode": "cess", "sigma": 0.1088348999619484, "next_sigma": 0.10592444241046906, "dgamma": 28.07248042523861, "cess": 0.8502036333084106, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.10592444241046906}
+{"mode": "cess", "sigma": 0.10592444241046906, "next_sigma": 0.10323984920978546, "dgamma": 27.743283472955227, "cess": 0.8504066467285156, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.10323984920978546}
+{"mode": "cess", "sigma": 0.10323984920978546, "next_sigma": 0.100760817527771, "dgamma": 27.34951540827751, "cess": 0.850086510181427, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.100760817527771}
+{"mode": "cess", "sigma": 0.100760817527771, "next_sigma": 0.09834131598472595, "dgamma": 28.711841881275177, "cess": 0.8503260612487793, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.09834131598472595}
+{"mode": "cess", "sigma": 0.09834131598472595, "next_sigma": 0.09611395746469498, "dgamma": 28.097207821905613, "cess": 0.8500158190727234, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.09611395746469498}
+{"mode": "cess", "sigma": 0.09611395746469498, "next_sigma": 0.09401612728834152, "dgamma": 28.146004229784012, "cess": 0.8505412936210632, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.09401612728834152}
+{"mode": "cess", "sigma": 0.09401612728834152, "next_sigma": 0.09199826419353485, "dgamma": 28.836052805185318, "cess": 0.8506156206130981, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.09199826419353485}
+{"mode": "cess", "sigma": 0.09199826419353485, "next_sigma": 0.09008638560771942, "dgamma": 28.989906162023544, "cess": 0.8501005172729492, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.09008638560771942}
+{"mode": "cess", "sigma": 0.09008638560771942, "next_sigma": 0.08831003308296204, "dgamma": 28.42847317457199, "cess": 0.8506836295127869, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.08831003308296204}
+{"mode": "cess", "sigma": 0.08831003308296204, "next_sigma": 0.08663545548915863, "dgamma": 28.268823325634003, "cess": 0.8505365252494812, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.08663545548915863}
+{"mode": "cess", "sigma": 0.08663545548915863, "next_sigma": 0.08504465222358704, "dgamma": 28.29879656434059, "cess": 0.8500316739082336, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.08504465222358704}
+{"mode": "cess", "sigma": 0.08504465222358704, "next_sigma": 0.08349239826202393, "dgamma": 29.164851665496826, "cess": 0.8503398895263672, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.08349239826202393}
+{"mode": "cess", "sigma": 0.08349239826202393, "next_sigma": 0.08205176144838333, "dgamma": 28.368162363767624, "cess": 0.8505134582519531, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.08205176144838333}
+{"mode": "cess", "sigma": 0.08205176144838333, "next_sigma": 0.0806085541844368, "dgamma": 30.025798112154007, "cess": 0.8503408432006836, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.0806085541844368}
+{"mode": "cess", "sigma": 0.0806085541844368, "next_sigma": 0.07919073104858398, "dgamma": 31.11058160662651, "cess": 0.8501428961753845, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.07919073104858398}
+{"mode": "cess", "sigma": 0.07919073104858398, "next_sigma": 0.07790462672710419, "dgamma": 29.431548535823822, "cess": 0.8504703640937805, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.07790462672710419}
+{"mode": "cess", "sigma": 0.07790462672710419, "next_sigma": 0.07664826512336731, "dgamma": 30.169963836669922, "cess": 0.8507137298583984, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.07664826512336731}
+{"mode": "cess", "sigma": 0.07664826512336731, "next_sigma": 0.07542965561151505, "dgamma": 30.668443992733955, "cess": 0.8506221175193787, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.07542965561151505}
+{"mode": "cess", "sigma": 0.07542965561151505, "next_sigma": 0.07424335926771164, "dgamma": 31.281194239854813, "cess": 0.8504418730735779, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.07424335926771164}
+{"mode": "cess", "sigma": 0.07424335926771164, "next_sigma": 0.07314428687095642, "dgamma": 30.162820160388947, "cess": 0.850830078125, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.07314428687095642}
+{"mode": "cess", "sigma": 0.07314428687095642, "next_sigma": 0.07203603535890579, "dgamma": 31.897483065724373, "cess": 0.8503292202949524, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.07203603535890579}
+{"mode": "cess", "sigma": 0.07203603535890579, "next_sigma": 0.07097382843494415, "dgamma": 31.89849179983139, "cess": 0.8500006794929504, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.07097382843494415}
+{"mode": "cess", "sigma": 0.07097382843494415, "next_sigma": 0.06997296214103699, "dgamma": 31.26102939248085, "cess": 0.8506563305854797, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.06997296214103699}
+{"mode": "cess", "sigma": 0.06997296214103699, "next_sigma": 0.06895340979099274, "dgamma": 33.35843054950237, "cess": 0.8503363728523254, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.06895340979099274}
+{"mode": "cess", "sigma": 0.06895340979099274, "next_sigma": 0.06796484440565109, "dgamma": 33.73602810502052, "cess": 0.8507232069969177, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.06796484440565109}
+{"mode": "cess", "sigma": 0.06796484440565109, "next_sigma": 0.0670224279165268, "dgamma": 33.45608304440975, "cess": 0.8502645492553711, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.0670224279165268}
+{"mode": "cess", "sigma": 0.0670224279165268, "next_sigma": 0.06610100716352463, "dgamma": 34.07746782898903, "cess": 0.8504859209060669, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.06610100716352463}
+{"mode": "cess", "sigma": 0.06610100716352463, "next_sigma": 0.06524735689163208, "dgamma": 32.68735349178314, "cess": 0.8509669303894043, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.06524735689163208}
+{"mode": "cess", "sigma": 0.06524735689163208, "next_sigma": 0.06437356024980545, "dgamma": 34.92460410296917, "cess": 0.8504332900047302, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.06437356024980545}
+{"mode": "cess", "sigma": 0.06437356024980545, "next_sigma": 0.0635460838675499, "dgamma": 34.2884601354599, "cess": 0.8503393530845642, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.0635460838675499}
+{"mode": "cess", "sigma": 0.0635460838675499, "next_sigma": 0.06274069845676422, "dgamma": 34.64312817156315, "cess": 0.8510726094245911, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.06274069845676422}
+{"mode": "cess", "sigma": 0.06274069845676422, "next_sigma": 0.06194930151104927, "dgamma": 35.35218358039856, "cess": 0.8501091003417969, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.06194930151104927}
+{"mode": "cess", "sigma": 0.06194930151104927, "next_sigma": 0.06117161735892296, "dgamma": 36.070343881845474, "cess": 0.8501340746879578, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.06117161735892296}
+{"mode": "cess", "sigma": 0.06117161735892296, "next_sigma": 0.06043703854084015, "dgamma": 35.23172199726105, "cess": 0.8500691652297974, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.06043703854084015}
+{"mode": "cess", "sigma": 0.06043703854084015, "next_sigma": 0.059733401983976364, "dgamma": 34.89025855064392, "cess": 0.8504683375358582, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.059733401983976364}
+{"mode": "cess", "sigma": 0.059733401983976364, "next_sigma": 0.058983542025089264, "dgamma": 38.7961468398571, "cess": 0.8510986566543579, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.058983542025089264}
+{"mode": "cess", "sigma": 0.058983542025089264, "next_sigma": 0.05826091766357422, "dgamma": 38.736239194869995, "cess": 0.8501400351524353, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05826091766357422}
+{"mode": "cess", "sigma": 0.05826091766357422, "next_sigma": 0.05755775049328804, "dgamma": 39.0557736158371, "cess": 0.8503276109695435, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05755775049328804}
+{"mode": "cess", "sigma": 0.05755775049328804, "next_sigma": 0.05687708780169487, "dgamma": 39.13154071569443, "cess": 0.8502437472343445, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05687708780169487}
+{"mode": "cess", "sigma": 0.05687708780169487, "next_sigma": 0.056218381971120834, "dgamma": 39.168118223547935, "cess": 0.8506209254264832, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.056218381971120834}
+{"mode": "cess", "sigma": 0.056218381971120834, "next_sigma": 0.05557074770331383, "dgamma": 39.85961025953293, "cess": 0.8510028719902039, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05557074770331383}
+{"mode": "cess", "sigma": 0.05557074770331383, "next_sigma": 0.054927170276641846, "dgamma": 41.03126773238182, "cess": 0.8511667251586914, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.054927170276641846}
+{"mode": "cess", "sigma": 0.054927170276641846, "next_sigma": 0.05433846265077591, "dgamma": 38.59970520436764, "cess": 0.8507963418960571, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05433846265077591}
+{"mode": "cess", "sigma": 0.05433846265077591, "next_sigma": 0.053689248859882355, "dgamma": 44.40170560777187, "cess": 0.8506293296813965, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.053689248859882355}
+{"mode": "cess", "sigma": 0.053689248859882355, "next_sigma": 0.053120486438274384, "dgamma": 39.89204752445221, "cess": 0.8508226275444031, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.053120486438274384}
+{"mode": "cess", "sigma": 0.053120486438274384, "next_sigma": 0.05254784971475601, "dgamma": 41.52954578399658, "cess": 0.8502976298332214, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05254784971475601}
+{"mode": "cess", "sigma": 0.05254784971475601, "next_sigma": 0.0520382821559906, "dgamma": 42.70486092567444, "cess": 0.8506078720092773, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.0520382821559906}
+{"mode": "cess", "sigma": 0.0520382821559906, "next_sigma": 0.05163062736392021, "dgamma": 45.16810566186905, "cess": 0.8501640558242798, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05163062736392021}
+{"mode": "cess", "sigma": 0.05163062736392021, "next_sigma": 0.05130450427532196, "dgamma": 44.78516232967377, "cess": 0.850476861000061, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05130450427532196}
+{"mode": "cess", "sigma": 0.05130450427532196, "next_sigma": 0.05104360729455948, "dgamma": 45.0780753493309, "cess": 0.850001335144043, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05104360729455948}
+{"mode": "cess", "sigma": 0.05104360729455948, "next_sigma": 0.050834886729717255, "dgamma": 46.10228252410889, "cess": 0.8503975868225098, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050834886729717255}
+{"mode": "cess", "sigma": 0.050834886729717255, "next_sigma": 0.050667911767959595, "dgamma": 43.647390842437744, "cess": 0.8508425951004028, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050667911767959595}
+{"mode": "cess", "sigma": 0.050667911767959595, "next_sigma": 0.05053433030843735, "dgamma": 45.932616502046585, "cess": 0.851169228553772, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05053433030843735}
+{"mode": "cess", "sigma": 0.05053433030843735, "next_sigma": 0.05042746663093567, "dgamma": 45.02854469418526, "cess": 0.8508461117744446, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05042746663093567}
+{"mode": "cess", "sigma": 0.05042746663093567, "next_sigma": 0.050341974943876266, "dgamma": 45.795637249946594, "cess": 0.8511175513267517, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050341974943876266}
+{"mode": "cess", "sigma": 0.050341974943876266, "next_sigma": 0.050273582339286804, "dgamma": 48.55233120918274, "cess": 0.8501972556114197, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050273582339286804}
+{"mode": "cess", "sigma": 0.050273582339286804, "next_sigma": 0.050218869000673294, "dgamma": 50.71304738521576, "cess": 0.8508572578430176, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050218869000673294}
+{"mode": "cess", "sigma": 0.050218869000673294, "next_sigma": 0.05017509683966637, "dgamma": 48.79065942764282, "cess": 0.8504300117492676, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05017509683966637}
+{"mode": "cess", "sigma": 0.05017509683966637, "next_sigma": 0.050140079110860825, "dgamma": 50.330467730760574, "cess": 0.8505102396011353, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050140079110860825}
+{"mode": "cess", "sigma": 0.050140079110860825, "next_sigma": 0.05011206492781639, "dgamma": 46.613454818725586, "cess": 0.8508855104446411, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05011206492781639}
+{"mode": "cess", "sigma": 0.05011206492781639, "next_sigma": 0.050089653581380844, "dgamma": 47.83222222328186, "cess": 0.8512595295906067, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050089653581380844}
+{"mode": "cess", "sigma": 0.050089653581380844, "next_sigma": 0.05007172375917435, "dgamma": 50.50232091546059, "cess": 0.8504833579063416, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05007172375917435}
+{"mode": "cess", "sigma": 0.05007172375917435, "next_sigma": 0.05005738139152527, "dgamma": 45.572288274765015, "cess": 0.8510050177574158, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05005738139152527}
+{"mode": "cess", "sigma": 0.05005738139152527, "next_sigma": 0.050045907497406006, "dgamma": 49.3982695043087, "cess": 0.8508906364440918, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050045907497406006}
+{"mode": "cess", "sigma": 0.050045907497406006, "next_sigma": 0.050036728382110596, "dgamma": 48.83606606721878, "cess": 0.8505915999412537, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050036728382110596}
+{"mode": "cess", "sigma": 0.050036728382110596, "next_sigma": 0.05002938583493233, "dgamma": 50.609216153621674, "cess": 0.8502209782600403, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05002938583493233}
+{"mode": "cess", "sigma": 0.05002938583493233, "next_sigma": 0.05002351105213165, "dgamma": 52.67244279384613, "cess": 0.8504949808120728, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05002351105213165}
+{"mode": "cess", "sigma": 0.05002351105213165, "next_sigma": 0.050018809735774994, "dgamma": 52.684818506240845, "cess": 0.8507833480834961, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050018809735774994}
+{"mode": "cess", "sigma": 0.050018809735774994, "next_sigma": 0.050015050917863846, "dgamma": 51.23097896575928, "cess": 0.8506634831428528, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050015050917863846}
+{"mode": "cess", "sigma": 0.050015050917863846, "next_sigma": 0.05001204460859299, "dgamma": 54.16660130023956, "cess": 0.8501077890396118, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05001204460859299}
+{"mode": "cess", "sigma": 0.05001204460859299, "next_sigma": 0.05000963807106018, "dgamma": 55.63725084066391, "cess": 0.8506953120231628, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000963807106018}
+{"mode": "cess", "sigma": 0.05000963807106018, "next_sigma": 0.050007712095975876, "dgamma": 61.20687448978424, "cess": 0.8508591651916504, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050007712095975876}
+{"mode": "cess", "sigma": 0.050007712095975876, "next_sigma": 0.05000617355108261, "dgamma": 60.332948207855225, "cess": 0.8501351475715637, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000617355108261}
+{"mode": "cess", "sigma": 0.05000617355108261, "next_sigma": 0.05000494047999382, "dgamma": 52.428459137678146, "cess": 0.851044774055481, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000494047999382}
+{"mode": "cess", "sigma": 0.05000494047999382, "next_sigma": 0.05000395327806473, "dgamma": 58.87508565187454, "cess": 0.8504590392112732, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000395327806473}
+{"mode": "cess", "sigma": 0.05000395327806473, "next_sigma": 0.050003163516521454, "dgamma": 67.37216055393219, "cess": 0.8502039313316345, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050003163516521454}
+{"mode": "cess", "sigma": 0.050003163516521454, "next_sigma": 0.050002533942461014, "dgamma": 58.87926685810089, "cess": 0.8501873016357422, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050002533942461014}
+{"mode": "cess", "sigma": 0.050002533942461014, "next_sigma": 0.05000203102827072, "dgamma": 65.03246623277664, "cess": 0.8501389622688293, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000203102827072}
+{"mode": "cess", "sigma": 0.05000203102827072, "next_sigma": 0.05000162869691849, "dgamma": 63.569051533937454, "cess": 0.8503081202507019, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000162869691849}
+{"mode": "cess", "sigma": 0.05000162869691849, "next_sigma": 0.05000130459666252, "dgamma": 67.37842559814453, "cess": 0.8502564430236816, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000130459666252}
+{"mode": "cess", "sigma": 0.05000130459666252, "next_sigma": 0.05000104755163193, "dgamma": 67.37929612398148, "cess": 0.8507067561149597, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000104755163193}
+{"mode": "cess", "sigma": 0.05000104755163193, "next_sigma": 0.050000838935375214, "dgamma": 73.23911786079407, "cess": 0.8501518368721008, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050000838935375214}
+{"mode": "cess", "sigma": 0.050000838935375214, "next_sigma": 0.05000067502260208, "dgamma": 65.32983809709549, "cess": 0.8503309488296509, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000067502260208}
+{"mode": "cess", "sigma": 0.05000067502260208, "next_sigma": 0.05000054091215134, "dgamma": 74.11908811330795, "cess": 0.8504934310913086, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000054091215134}
+{"mode": "cess", "sigma": 0.05000054091215134, "next_sigma": 0.05000043660402298, "dgamma": 70.01801410317421, "cess": 0.8506892323493958, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000043660402298}
+{"mode": "cess", "sigma": 0.05000043660402298, "next_sigma": 0.050000350922346115, "dgamma": 70.89719700813293, "cess": 0.8505571484565735, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050000350922346115}
+{"mode": "cess", "sigma": 0.050000350922346115, "next_sigma": 0.05000028386712074, "dgamma": 77.34266424179077, "cess": 0.8500232100486755, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000028386712074}
+{"mode": "cess", "sigma": 0.05000028386712074, "next_sigma": 0.050000227987766266, "dgamma": 75.87804174423218, "cess": 0.8501935005187988, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050000227987766266}
+{"mode": "cess", "sigma": 0.050000227987766266, "next_sigma": 0.050000183284282684, "dgamma": 84.08127000927925, "cess": 0.8500307202339172, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050000183284282684}
+{"mode": "cess", "sigma": 0.050000183284282684, "next_sigma": 0.05000014975667, "dgamma": 77.92911672592163, "cess": 0.8508118987083435, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000014975667}
+{"mode": "cess", "sigma": 0.05000014975667, "next_sigma": 0.05000012367963791, "dgamma": 87.89009749889374, "cess": 0.8502225875854492, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000012367963791}
+{"mode": "cess", "sigma": 0.05000012367963791, "next_sigma": 0.05000010132789612, "dgamma": 84.96052265167236, "cess": 0.8503890037536621, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000010132789612}
+{"mode": "cess", "sigma": 0.05000010132789612, "next_sigma": 0.050000082701444626, "dgamma": 83.20278644561768, "cess": 0.8506598472595215, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050000082701444626}
+{"mode": "cess", "sigma": 0.050000082701444626, "next_sigma": 0.05000006780028343, "dgamma": 91.99187868833542, "cess": 0.8501076698303223, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000006780028343}
+{"mode": "cess", "sigma": 0.05000006780028343, "next_sigma": 0.05000005662441254, "dgamma": 99.31614357233047, "cess": 0.8506050109863281, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000005662441254}
+{"mode": "cess", "sigma": 0.05000005662441254, "next_sigma": 0.05000004917383194, "dgamma": 98.144311606884, "cess": 0.8502709269523621, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000004917383194}
+{"mode": "cess", "sigma": 0.05000004917383194, "next_sigma": 0.05000004172325134, "dgamma": 113.37868711352348, "cess": 0.8503856658935547, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000004172325134}
+{"mode": "cess", "sigma": 0.05000004172325134, "next_sigma": 0.050000034272670746, "dgamma": 112.79278516769409, "cess": 0.8504819273948669, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050000034272670746}
+{"mode": "cess", "sigma": 0.050000034272670746, "next_sigma": 0.05000003054738045, "dgamma": 119.23811143636703, "cess": 0.8500019311904907, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000003054738045}
+{"mode": "cess", "sigma": 0.05000003054738045, "next_sigma": 0.05000002682209015, "dgamma": 110.74205231666565, "cess": 0.8502348065376282, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000002682209015}
+{"mode": "cess", "sigma": 0.05000002682209015, "next_sigma": 0.05000002309679985, "dgamma": 129.19908732175827, "cess": 0.8504000902175903, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000002309679985}
+{"mode": "cess", "sigma": 0.05000002309679985, "next_sigma": 0.05000001937150955, "dgamma": 123.63269931077957, "cess": 0.8504590392112732, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 135.05848383903503, "cess": 0.8500903248786926, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 169.33579969406128, "cess": 0.850289523601532, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 173.14439034461975, "cess": 0.8502511382102966, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 163.47642946243286, "cess": 0.8501982092857361, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 169.04283118247986, "cess": 0.8503854870796204, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 193.6521861553192, "cess": 0.8500639796257019, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 219.72638368606567, "cess": 0.8501456379890442, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 254.88260507583618, "cess": 0.8502262234687805, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 244.62870717048645, "cess": 0.8502392172813416, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 224.70684838294983, "cess": 0.8501067161560059, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 270.99587321281433, "cess": 0.8501328825950623, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 329.00363850593567, "cess": 0.8500200510025024, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 231.4451241493225, "cess": 0.8502480387687683, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 425.39027881622314, "cess": 0.8501647114753723, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 506.54255652427673, "cess": 0.8500217795372009, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 597.3627951145172, "cess": 0.8500642776489258, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 754.3939173221588, "cess": 0.8500097393989563, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 552.5386128425598, "cess": 0.8500335812568665, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 470.8003981113434, "cess": 0.8500442504882812, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 696.6791205406189, "cess": 0.8501091003417969, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 881.5422513484955, "cess": 0.8500593304634094, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 1121.7764308452606, "cess": 0.8500351905822754, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "used", "sigma_used": 100.0}
+{"mode": "used", "sigma_used": 97.82520294189453}
+{"mode": "used", "sigma_used": 95.69107818603516}
+{"mode": "used", "sigma_used": 93.59698486328125}
+{"mode": "used", "sigma_used": 91.54228973388672}
+{"mode": "used", "sigma_used": 89.52638244628906}
+{"mode": "used", "sigma_used": 87.54864501953125}
+{"mode": "used", "sigma_used": 85.60847473144531}
+{"mode": "used", "sigma_used": 83.70527648925781}
+{"mode": "used", "sigma_used": 81.83846282958984}
+{"mode": "used", "sigma_used": 80.0074462890625}
+{"mode": "cess", "sigma": 80.0074462890625, "next_sigma": 8.04147720336914, "dgamma": 0.0004685483457222972, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 8.04147720336914}
+{"mode": "cess", "sigma": 8.04147720336914, "next_sigma": 7.23740291595459, "dgamma": 0.04638137149868271, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 7.23740291595459}
+{"mode": "cess", "sigma": 7.23740291595459, "next_sigma": 6.513728618621826, "dgamma": 0.057259785035057575, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 6.513728618621826}
+{"mode": "cess", "sigma": 6.513728618621826, "next_sigma": 5.862415313720703, "dgamma": 0.0706896564042836, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 5.862415313720703}
+{"mode": "cess", "sigma": 5.862415313720703, "next_sigma": 5.2762274742126465, "dgamma": 0.08726941538952815, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 5.2762274742126465}
+{"mode": "cess", "sigma": 5.2762274742126465, "next_sigma": 4.748652935028076, "dgamma": 0.10773781526950188, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 4.748652935028076}
+{"mode": "cess", "sigma": 4.748652935028076, "next_sigma": 4.273830890655518, "dgamma": 0.13300694945428404, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 4.273830890655518}
+{"mode": "cess", "sigma": 4.273830890655518, "next_sigma": 3.846487045288086, "dgamma": 0.16420279509475222, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 3.846487045288086}
+{"mode": "cess", "sigma": 3.846487045288086, "next_sigma": 3.4618735313415527, "dgamma": 0.20271536559448577, "cess": 0.9999999403953552, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 3.4618735313415527}
+{"mode": "cess", "sigma": 3.4618735313415527, "next_sigma": 3.115717887878418, "dgamma": 0.2502607811402413, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 3.115717887878418}
+{"mode": "cess", "sigma": 3.115717887878418, "next_sigma": 2.8041749000549316, "dgamma": 0.30895764830347616, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 2.8041749000549316}
+{"mode": "cess", "sigma": 2.8041749000549316, "next_sigma": 2.5237832069396973, "dgamma": 0.38142134646477643, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 2.5237832069396973}
+{"mode": "cess", "sigma": 2.5237832069396973, "next_sigma": 2.271427869796753, "dgamma": 0.470880973371095, "cess": 0.9999999403953552, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 2.271427869796753}
+{"mode": "cess", "sigma": 2.271427869796753, "next_sigma": 2.0443060398101807, "dgamma": 0.5813227486942196, "cess": 1.0, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 2.0443060398101807}
+{"mode": "cess", "sigma": 2.0443060398101807, "next_sigma": 1.83989417552948, "dgamma": 0.7176676818926353, "cess": 0.9999997019767761, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 1.83989417552948}
+{"mode": "cess", "sigma": 1.83989417552948, "next_sigma": 1.6559215784072876, "dgamma": 0.8859914596541785, "cess": 0.9999995231628418, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 1.6559215784072876}
+{"mode": "cess", "sigma": 1.6559215784072876, "next_sigma": 1.4903446435928345, "dgamma": 1.0937943890166935, "cess": 0.9999992251396179, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 1.4903446435928345}
+{"mode": "cess", "sigma": 1.4903446435928345, "next_sigma": 1.3413238525390625, "dgamma": 1.3503358169691637, "cess": 0.9999983906745911, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 1.3413238525390625}
+{"mode": "cess", "sigma": 1.3413238525390625, "next_sigma": 1.20720374584198, "dgamma": 1.667047387745697, "cess": 0.9999967813491821, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 1.20720374584198}
+{"mode": "cess", "sigma": 1.20720374584198, "next_sigma": 1.0864944458007812, "dgamma": 2.058041346317623, "cess": 0.9999939203262329, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 1.0864944458007812}
+{"mode": "cess", "sigma": 1.0864944458007812, "next_sigma": 0.9778549671173096, "dgamma": 2.5407396905939095, "cess": 0.9999876022338867, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.9778549671173096}
+{"mode": "cess", "sigma": 0.9778549671173096, "next_sigma": 0.8800784349441528, "dgamma": 3.1366518221329898, "cess": 0.9999758005142212, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.8800784349441528}
+{"mode": "cess", "sigma": 0.8800784349441528, "next_sigma": 0.7920786738395691, "dgamma": 3.8723308479529805, "cess": 0.9999575614929199, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.7920786738395691}
+{"mode": "cess", "sigma": 0.7920786738395691, "next_sigma": 0.7128780484199524, "dgamma": 4.780557993217371, "cess": 0.9999117255210876, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.7128780484199524}
+{"mode": "cess", "sigma": 0.7128780484199524, "next_sigma": 0.6415967345237732, "dgamma": 5.901803273591213, "cess": 0.9998272061347961, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.6415967345237732}
+{"mode": "cess", "sigma": 0.6415967345237732, "next_sigma": 0.5774429440498352, "dgamma": 7.286029168171808, "cess": 0.9996927380561829, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.5774429440498352}
+{"mode": "cess", "sigma": 0.5774429440498352, "next_sigma": 0.5197039246559143, "dgamma": 8.994914760114625, "cess": 0.9993888735771179, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.5197039246559143}
+{"mode": "cess", "sigma": 0.5197039246559143, "next_sigma": 0.4677383005619049, "dgamma": 11.104608083842322, "cess": 0.9988247752189636, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.4677383005619049}
+{"mode": "cess", "sigma": 0.4677383005619049, "next_sigma": 0.42096877098083496, "dgamma": 13.709113702643663, "cess": 0.9978277087211609, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.42096877098083496}
+{"mode": "cess", "sigma": 0.42096877098083496, "next_sigma": 0.3788757622241974, "dgamma": 16.92448451416567, "cess": 0.9958473443984985, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.3788757622241974}
+{"mode": "cess", "sigma": 0.3788757622241974, "next_sigma": 0.34099167585372925, "dgamma": 20.893998937681317, "cess": 0.9922555088996887, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.34099167585372925}
+{"mode": "cess", "sigma": 0.34099167585372925, "next_sigma": 0.3068956434726715, "dgamma": 25.794531810097396, "cess": 0.9866420030593872, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.3068956434726715}
+{"mode": "cess", "sigma": 0.3068956434726715, "next_sigma": 0.27620890736579895, "dgamma": 31.844453648664057, "cess": 0.9745621085166931, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.27620890736579895}
+{"mode": "cess", "sigma": 0.27620890736579895, "next_sigma": 0.24859054386615753, "dgamma": 39.31333287153393, "cess": 0.9535940289497375, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.24859054386615753}
+{"mode": "cess", "sigma": 0.24859054386615753, "next_sigma": 0.22373375296592712, "dgamma": 48.53399301879108, "cess": 0.920794665813446, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.22373375296592712}
+{"mode": "cess", "sigma": 0.22373375296592712, "next_sigma": 0.20136243104934692, "dgamma": 59.91729109548032, "cess": 0.8624594807624817, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.20136243104934692}
+{"mode": "cess", "sigma": 0.20136243104934692, "next_sigma": 0.18294677138328552, "dgamma": 59.06798779964447, "cess": 0.8500663042068481, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.18294677138328552}
+{"mode": "cess", "sigma": 0.18294677138328552, "next_sigma": 0.16784650087356567, "dgamma": 56.74326539039612, "cess": 0.8500257730484009, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.16784650087356567}
+{"mode": "cess", "sigma": 0.16784650087356567, "next_sigma": 0.1557358205318451, "dgamma": 51.37166900932789, "cess": 0.850079357624054, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.1557358205318451}
+{"mode": "cess", "sigma": 0.1557358205318451, "next_sigma": 0.14542704820632935, "dgamma": 50.88434621691704, "cess": 0.8500918745994568, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.14542704820632935}
+{"mode": "cess", "sigma": 0.14542704820632935, "next_sigma": 0.13670165836811066, "dgamma": 49.21131653338671, "cess": 0.8500552177429199, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.13670165836811066}
+{"mode": "cess", "sigma": 0.13670165836811066, "next_sigma": 0.1293696165084839, "dgamma": 46.405072927474976, "cess": 0.8500334024429321, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.1293696165084839}
+{"mode": "cess", "sigma": 0.1293696165084839, "next_sigma": 0.1228649690747261, "dgamma": 46.869052425026894, "cess": 0.8501847386360168, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.1228649690747261}
+{"mode": "cess", "sigma": 0.1228649690747261, "next_sigma": 0.1171741634607315, "dgamma": 45.94678781926632, "cess": 0.8500931859016418, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.1171741634607315}
+{"mode": "cess", "sigma": 0.1171741634607315, "next_sigma": 0.1121995598077774, "dgamma": 44.54346880316734, "cess": 0.8500846028327942, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.1121995598077774}
+{"mode": "cess", "sigma": 0.1121995598077774, "next_sigma": 0.1074967086315155, "dgamma": 47.708177864551544, "cess": 0.8502920269966125, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.1074967086315155}
+{"mode": "cess", "sigma": 0.1074967086315155, "next_sigma": 0.10343552380800247, "dgamma": 45.00173822045326, "cess": 0.8501130938529968, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.10343552380800247}
+{"mode": "cess", "sigma": 0.10343552380800247, "next_sigma": 0.09976305812597275, "dgamma": 44.70283451676369, "cess": 0.8503121733665466, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.09976305812597275}
+{"mode": "cess", "sigma": 0.09976305812597275, "next_sigma": 0.09629052877426147, "dgamma": 46.803559362888336, "cess": 0.8500052690505981, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.09629052877426147}
+{"mode": "cess", "sigma": 0.09629052877426147, "next_sigma": 0.09325399249792099, "dgamma": 44.15765347331762, "cess": 0.8503848910331726, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.09325399249792099}
+{"mode": "cess", "sigma": 0.09325399249792099, "next_sigma": 0.09047065675258636, "dgamma": 43.87974938750267, "cess": 0.8502013087272644, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.09047065675258636}
+{"mode": "cess", "sigma": 0.09047065675258636, "next_sigma": 0.08782784640789032, "dgamma": 45.36843645572662, "cess": 0.8504001498222351, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.08782784640789032}
+{"mode": "cess", "sigma": 0.08782784640789032, "next_sigma": 0.08542921394109726, "dgamma": 44.246890008449554, "cess": 0.850260853767395, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.08542921394109726}
+{"mode": "cess", "sigma": 0.08542921394109726, "next_sigma": 0.0831446647644043, "dgamma": 45.56216415762901, "cess": 0.8502820134162903, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.0831446647644043}
+{"mode": "cess", "sigma": 0.0831446647644043, "next_sigma": 0.08092517405748367, "dgamma": 47.994420893490314, "cess": 0.8503039479255676, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.08092517405748367}
+{"mode": "cess", "sigma": 0.08092517405748367, "next_sigma": 0.07894576340913773, "dgamma": 45.518550381064415, "cess": 0.8504929542541504, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.07894576340913773}
+{"mode": "cess", "sigma": 0.07894576340913773, "next_sigma": 0.07705797255039215, "dgamma": 46.53704845905304, "cess": 0.8500959277153015, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.07705797255039215}
+{"mode": "cess", "sigma": 0.07705797255039215, "next_sigma": 0.07526178658008575, "dgamma": 47.3649845123291, "cess": 0.8506457209587097, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.07526178658008575}
+{"mode": "cess", "sigma": 0.07526178658008575, "next_sigma": 0.0735725611448288, "dgamma": 47.45459780097008, "cess": 0.8502393960952759, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.0735725611448288}
+{"mode": "cess", "sigma": 0.0735725611448288, "next_sigma": 0.07194013893604279, "dgamma": 48.98218014836311, "cess": 0.8502326011657715, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.07194013893604279}
+{"mode": "cess", "sigma": 0.07194013893604279, "next_sigma": 0.0704299584031105, "dgamma": 47.97537884116173, "cess": 0.8503419756889343, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.0704299584031105}
+{"mode": "cess", "sigma": 0.0704299584031105, "next_sigma": 0.06884196400642395, "dgamma": 54.4844788312912, "cess": 0.8500130772590637, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.06884196400642395}
+{"mode": "cess", "sigma": 0.06884196400642395, "next_sigma": 0.06741131097078323, "dgamma": 51.772553101181984, "cess": 0.8500813841819763, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.06741131097078323}
+{"mode": "cess", "sigma": 0.06741131097078323, "next_sigma": 0.06604965776205063, "dgamma": 52.22047233581543, "cess": 0.8500526547431946, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.06604965776205063}
+{"mode": "cess", "sigma": 0.06604965776205063, "next_sigma": 0.06476146727800369, "dgamma": 52.213228434324265, "cess": 0.8501147627830505, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.06476146727800369}
+{"mode": "cess", "sigma": 0.06476146727800369, "next_sigma": 0.06348448246717453, "dgamma": 55.00960037112236, "cess": 0.8504652976989746, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.06348448246717453}
+{"mode": "cess", "sigma": 0.06348448246717453, "next_sigma": 0.06220552697777748, "dgamma": 58.69872812926769, "cess": 0.8503264784812927, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.06220552697777748}
+{"mode": "cess", "sigma": 0.06220552697777748, "next_sigma": 0.0610838383436203, "dgamma": 53.7553516626358, "cess": 0.8500586748123169, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.0610838383436203}
+{"mode": "cess", "sigma": 0.0610838383436203, "next_sigma": 0.059918902814388275, "dgamma": 59.4773061722517, "cess": 0.8500892519950867, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.059918902814388275}
+{"mode": "cess", "sigma": 0.059918902814388275, "next_sigma": 0.0588984377682209, "dgamma": 54.26443102955818, "cess": 0.8505736589431763, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.0588984377682209}
+{"mode": "cess", "sigma": 0.0588984377682209, "next_sigma": 0.05791854485869408, "dgamma": 54.68314680457115, "cess": 0.8505799174308777, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05791854485869408}
+{"mode": "cess", "sigma": 0.05791854485869408, "next_sigma": 0.05698120594024658, "dgamma": 54.802422285079956, "cess": 0.8506758809089661, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05698120594024658}
+{"mode": "cess", "sigma": 0.05698120594024658, "next_sigma": 0.056033212691545486, "dgamma": 58.42487442493439, "cess": 0.8502016067504883, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.056033212691545486}
+{"mode": "cess", "sigma": 0.056033212691545486, "next_sigma": 0.05517774820327759, "dgamma": 54.81988325715065, "cess": 0.8500152826309204, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05517774820327759}
+{"mode": "cess", "sigma": 0.05517774820327759, "next_sigma": 0.054281629621982574, "dgamma": 60.62250816822052, "cess": 0.850196361541748, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.054281629621982574}
+{"mode": "cess", "sigma": 0.054281629621982574, "next_sigma": 0.05349705368280411, "dgamma": 54.93483832478523, "cess": 0.8505350947380066, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05349705368280411}
+{"mode": "cess", "sigma": 0.05349705368280411, "next_sigma": 0.05279764533042908, "dgamma": 66.53879523277283, "cess": 0.8508200645446777, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05279764533042908}
+{"mode": "cess", "sigma": 0.05279764533042908, "next_sigma": 0.05223811790347099, "dgamma": 60.168289452791214, "cess": 0.8504533767700195, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05223811790347099}
+{"mode": "cess", "sigma": 0.05223811790347099, "next_sigma": 0.051790498197078705, "dgamma": 57.70649626851082, "cess": 0.8508687019348145, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.051790498197078705}
+{"mode": "cess", "sigma": 0.051790498197078705, "next_sigma": 0.051432400941848755, "dgamma": 60.61974209547043, "cess": 0.850409209728241, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.051432400941848755}
+{"mode": "cess", "sigma": 0.051432400941848755, "next_sigma": 0.051145922392606735, "dgamma": 65.06621778011322, "cess": 0.8501560091972351, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.051145922392606735}
+{"mode": "cess", "sigma": 0.051145922392606735, "next_sigma": 0.05091673880815506, "dgamma": 62.997277826070786, "cess": 0.8509784936904907, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05091673880815506}
+{"mode": "cess", "sigma": 0.05091673880815506, "next_sigma": 0.05073339492082596, "dgamma": 68.08590415120125, "cess": 0.8507108688354492, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05073339492082596}
+{"mode": "cess", "sigma": 0.05073339492082596, "next_sigma": 0.05058671906590462, "dgamma": 70.5708122253418, "cess": 0.8501564264297485, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05058671906590462}
+{"mode": "cess", "sigma": 0.05058671906590462, "next_sigma": 0.050469376146793365, "dgamma": 72.41171070933342, "cess": 0.8504893183708191, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050469376146793365}
+{"mode": "cess", "sigma": 0.050469376146793365, "next_sigma": 0.050375502556562424, "dgamma": 68.14810037612915, "cess": 0.8504409790039062, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050375502556562424}
+{"mode": "cess", "sigma": 0.050375502556562424, "next_sigma": 0.05030040442943573, "dgamma": 64.07306331396103, "cess": 0.8501142859458923, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05030040442943573}
+{"mode": "cess", "sigma": 0.05030040442943573, "next_sigma": 0.050240326672792435, "dgamma": 57.89597034454346, "cess": 0.8505962491035461, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050240326672792435}
+{"mode": "cess", "sigma": 0.050240326672792435, "next_sigma": 0.05019226297736168, "dgamma": 69.64141845703125, "cess": 0.85061115026474, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05019226297736168}
+{"mode": "cess", "sigma": 0.05019226297736168, "next_sigma": 0.050153814256191254, "dgamma": 74.42652893066406, "cess": 0.8506682515144348, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050153814256191254}
+{"mode": "cess", "sigma": 0.050153814256191254, "next_sigma": 0.050123054534196854, "dgamma": 67.55248427391052, "cess": 0.8500469326972961, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050123054534196854}
+{"mode": "cess", "sigma": 0.050123054534196854, "next_sigma": 0.050098445266485214, "dgamma": 71.13381040096283, "cess": 0.850317120552063, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050098445266485214}
+{"mode": "cess", "sigma": 0.050098445266485214, "next_sigma": 0.05007875710725784, "dgamma": 73.53826189041138, "cess": 0.8501617312431335, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05007875710725784}
+{"mode": "cess", "sigma": 0.05007875710725784, "next_sigma": 0.050063006579875946, "dgamma": 59.28573942184448, "cess": 0.8505162596702576, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050063006579875946}
+{"mode": "cess", "sigma": 0.050063006579875946, "next_sigma": 0.05005040764808655, "dgamma": 67.50554537773132, "cess": 0.8505575060844421, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05005040764808655}
+{"mode": "cess", "sigma": 0.05005040764808655, "next_sigma": 0.05004032701253891, "dgamma": 63.73860722780228, "cess": 0.8505710959434509, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05004032701253891}
+{"mode": "cess", "sigma": 0.05004032701253891, "next_sigma": 0.05003226548433304, "dgamma": 66.6892569065094, "cess": 0.8504759669303894, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05003226548433304}
+{"mode": "cess", "sigma": 0.05003226548433304, "next_sigma": 0.0500258132815361, "dgamma": 66.7107492685318, "cess": 0.8505547642707825, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.0500258132815361}
+{"mode": "cess", "sigma": 0.0500258132815361, "next_sigma": 0.05002065375447273, "dgamma": 73.166623711586, "cess": 0.8505546450614929, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05002065375447273}
+{"mode": "cess", "sigma": 0.05002065375447273, "next_sigma": 0.05001652613282204, "dgamma": 70.54717671871185, "cess": 0.8501681685447693, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05001652613282204}
+{"mode": "cess", "sigma": 0.05001652613282204, "next_sigma": 0.0500132218003273, "dgamma": 75.53599745035172, "cess": 0.8502821922302246, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.0500132218003273}
+{"mode": "cess", "sigma": 0.0500132218003273, "next_sigma": 0.05001058056950569, "dgamma": 75.54597008228302, "cess": 0.8504058718681335, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05001058056950569}
+{"mode": "cess", "sigma": 0.05001058056950569, "next_sigma": 0.050008468329906464, "dgamma": 72.03982132673264, "cess": 0.8506147265434265, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050008468329906464}
+{"mode": "cess", "sigma": 0.050008468329906464, "next_sigma": 0.05000677704811096, "dgamma": 79.95338389277458, "cess": 0.850010097026825, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000677704811096}
+{"mode": "cess", "sigma": 0.05000677704811096, "next_sigma": 0.05000542476773262, "dgamma": 69.70766687393188, "cess": 0.8503137826919556, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000542476773262}
+{"mode": "cess", "sigma": 0.05000542476773262, "next_sigma": 0.05000434070825577, "dgamma": 69.12562990188599, "cess": 0.8510217070579529, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000434070825577}
+{"mode": "cess", "sigma": 0.05000434070825577, "next_sigma": 0.050003476440906525, "dgamma": 80.25949841737747, "cess": 0.8503817915916443, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050003476440906525}
+{"mode": "cess", "sigma": 0.050003476440906525, "next_sigma": 0.05000278353691101, "dgamma": 71.47444176673889, "cess": 0.8505882620811462, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000278353691101}
+{"mode": "cess", "sigma": 0.05000278353691101, "next_sigma": 0.05000222846865654, "dgamma": 74.99164581298828, "cess": 0.8502049446105957, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000222846865654}
+{"mode": "cess", "sigma": 0.05000222846865654, "next_sigma": 0.05000178515911102, "dgamma": 80.26628422737122, "cess": 0.8507418632507324, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000178515911102}
+{"mode": "cess", "sigma": 0.05000178515911102, "next_sigma": 0.05000143125653267, "dgamma": 76.45938330888748, "cess": 0.8503293395042419, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000143125653267}
+{"mode": "cess", "sigma": 0.05000143125653267, "next_sigma": 0.050001148134469986, "dgamma": 73.53095227479935, "cess": 0.8506023287773132, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050001148134469986}
+{"mode": "cess", "sigma": 0.050001148134469986, "next_sigma": 0.05000092089176178, "dgamma": 82.61339718103409, "cess": 0.8508402705192566, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000092089176178}
+{"mode": "cess", "sigma": 0.05000092089176178, "next_sigma": 0.050000738352537155, "dgamma": 93.16063177585602, "cess": 0.8502410054206848, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050000738352537155}
+{"mode": "cess", "sigma": 0.050000738352537155, "next_sigma": 0.050000593066215515, "dgamma": 74.99778747558594, "cess": 0.8506034016609192, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050000593066215515}
+{"mode": "cess", "sigma": 0.050000593066215515, "next_sigma": 0.05000047758221626, "dgamma": 71.48268067836761, "cess": 0.8500461578369141, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000047758221626}
+{"mode": "cess", "sigma": 0.05000047758221626, "next_sigma": 0.0500003844499588, "dgamma": 77.63523399829865, "cess": 0.850267231464386, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.0500003844499588}
+{"mode": "cess", "sigma": 0.0500003844499588, "next_sigma": 0.05000030994415283, "dgamma": 80.85813295841217, "cess": 0.8508350253105164, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000030994415283}
+{"mode": "cess", "sigma": 0.05000030994415283, "next_sigma": 0.05000025033950806, "dgamma": 72.65534830093384, "cess": 0.8506180047988892, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000025033950806}
+{"mode": "cess", "sigma": 0.05000025033950806, "next_sigma": 0.05000020191073418, "dgamma": 77.05000528693199, "cess": 0.8501845598220825, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000020191073418}
+{"mode": "cess", "sigma": 0.05000020191073418, "next_sigma": 0.05000016465783119, "dgamma": 74.70642328262329, "cess": 0.8504874110221863, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000016465783119}
+{"mode": "cess", "sigma": 0.05000016465783119, "next_sigma": 0.050000134855508804, "dgamma": 70.89797592163086, "cess": 0.8511561751365662, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050000134855508804}
+{"mode": "cess", "sigma": 0.050000134855508804, "next_sigma": 0.050000108778476715, "dgamma": 92.57762587070465, "cess": 0.8506752252578735, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050000108778476715}
+{"mode": "cess", "sigma": 0.050000108778476715, "next_sigma": 0.05000009015202522, "dgamma": 87.01133814454079, "cess": 0.8506780862808228, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000009015202522}
+{"mode": "cess", "sigma": 0.05000009015202522, "next_sigma": 0.05000007525086403, "dgamma": 85.83953812718391, "cess": 0.8507356643676758, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000007525086403}
+{"mode": "cess", "sigma": 0.05000007525086403, "next_sigma": 0.050000064074993134, "dgamma": 76.4646103978157, "cess": 0.8505234718322754, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050000064074993134}
+{"mode": "cess", "sigma": 0.050000064074993134, "next_sigma": 0.05000005289912224, "dgamma": 85.25368076562881, "cess": 0.8509319424629211, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000005289912224}
+{"mode": "cess", "sigma": 0.05000005289912224, "next_sigma": 0.05000004544854164, "dgamma": 90.52715036273003, "cess": 0.8506546020507812, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000004544854164}
+{"mode": "cess", "sigma": 0.05000004544854164, "next_sigma": 0.050000037997961044, "dgamma": 85.54671835899353, "cess": 0.8507848978042603, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050000037997961044}
+{"mode": "cess", "sigma": 0.050000037997961044, "next_sigma": 0.050000034272670746, "dgamma": 83.78893464803696, "cess": 0.8502364158630371, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.050000034272670746}
+{"mode": "cess", "sigma": 0.050000034272670746, "next_sigma": 0.05000003054738045, "dgamma": 77.63660818338394, "cess": 0.8506966829299927, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000003054738045}
+{"mode": "cess", "sigma": 0.05000003054738045, "next_sigma": 0.05000002682209015, "dgamma": 102.24596893787384, "cess": 0.8501725196838379, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000002682209015}
+{"mode": "cess", "sigma": 0.05000002682209015, "next_sigma": 0.05000002309679985, "dgamma": 117.773317694664, "cess": 0.8505115509033203, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000002309679985}
+{"mode": "cess", "sigma": 0.05000002309679985, "next_sigma": 0.05000001937150955, "dgamma": 97.8514729142189, "cess": 0.8506326675415039, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 96.09367179870605, "cess": 0.8507469296455383, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 93.74992370605469, "cess": 0.8500587344169617, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 84.37493133544922, "cess": 0.8504714369773865, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 95.21476626396179, "cess": 0.8504511713981628, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 88.18352198600769, "cess": 0.8500725626945496, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 93.45695519447327, "cess": 0.8502225279808044, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 94.92179775238037, "cess": 0.850731372833252, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 91.69914412498474, "cess": 0.8502768874168396, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 94.33586072921753, "cess": 0.8508362770080566, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 108.98428630828857, "cess": 0.8501198887825012, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 93.16398668289185, "cess": 0.8500561714172363, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 110.7420973777771, "cess": 0.8505513072013855, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 111.32803440093994, "cess": 0.8502764105796814, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 118.65224719047546, "cess": 0.8501100540161133, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 135.9373893737793, "cess": 0.8504013419151306, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 150.87878346443176, "cess": 0.850313127040863, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 125.68349146842957, "cess": 0.8504635691642761, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 118.35927867889404, "cess": 0.8504911661148071, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 169.33579969406128, "cess": 0.8502687811851501, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 155.27331113815308, "cess": 0.8500949740409851, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 118.65224719047546, "cess": 0.8504973649978638, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 150.29284644126892, "cess": 0.8501507043838501, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 181.93344569206238, "cess": 0.8500100374221802, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 163.47642946243286, "cess": 0.8502902984619141, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 160.54674434661865, "cess": 0.8501749038696289, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 171.97251629829407, "cess": 0.8501501083374023, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 193.94515466690063, "cess": 0.85027676820755, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 167.28502011299133, "cess": 0.8501653075218201, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 174.60923290252686, "cess": 0.8503310084342957, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 216.21076154708862, "cess": 0.8500396609306335, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 221.19122624397278, "cess": 0.8501391410827637, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 229.39434456825256, "cess": 0.8501669764518738, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 287.4021098613739, "cess": 0.850085437297821, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 247.85136079788208, "cess": 0.8500744700431824, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 201.26936745643616, "cess": 0.850214958190918, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 205.37092661857605, "cess": 0.8503158688545227, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 279.78492856025696, "cess": 0.850108802318573, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 211.8162338733673, "cess": 0.8500499129295349, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 257.8122901916504, "cess": 0.8500218391418457, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 331.0544180870056, "cess": 0.8500761389732361, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 329.2966070175171, "cess": 0.8500716090202332, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 249.02323484420776, "cess": 0.8501295447349548, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 292.38257455825806, "cess": 0.8502007722854614, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 314.0622444152832, "cess": 0.8500222563743591, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 369.43329310417175, "cess": 0.8500086069107056, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 315.2341184616089, "cess": 0.8500896692276001, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 336.03488278388977, "cess": 0.850186288356781, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 337.4997253417969, "cess": 0.8501375317573547, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 366.50360798835754, "cess": 0.8501128554344177, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 545.2144000530243, "cess": 0.8500699996948242, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 395.80045914649963, "cess": 0.8501765131950378, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 514.7456748485565, "cess": 0.8500446677207947, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 619.0424649715424, "cess": 0.85004723072052, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 803.3196587562561, "cess": 0.8500303626060486, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}
+{"mode": "cess", "sigma": 0.05000001937150955, "next_sigma": 0.05000001937150955, "dgamma": 1199.7060549259186, "cess": 0.9024600386619568, "reheat": false, "ksd": null}
+{"mode": "used", "sigma_used": 0.05000001937150955}

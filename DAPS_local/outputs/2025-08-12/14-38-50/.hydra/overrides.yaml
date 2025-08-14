@@ -1,0 +1,4 @@
+- +data=test-ffhq
+- +model=ffhq256ddpm
+- +task=phase_retrieval
+- +sampler=edm_daps

@@ -1,0 +1,17 @@
+latent: False
+
+annealing_scheduler_config:
+  name: 'edm'
+  num_steps: 200
+  sigma_max: 100
+  sigma_min: 0.1
+  timestep: 'poly-7'
+
+diffusion_scheduler_config:
+  name: 'edm'
+  num_steps: 5
+  sigma_min: 0.01
+  timestep: 'poly-7'
+
+# Optional adaptive K2 scheduler (skeleton)
+k2_scheduler_config: null

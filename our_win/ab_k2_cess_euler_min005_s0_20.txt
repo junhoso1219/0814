@@ -1,0 +1,153 @@
+batch_size: 10
+da_hmc: null
+data:
+    end_id: 20
+    name: image
+    resolution: 256
+    root: dataset/test-ffhq
+    start_id: 0
+eval_fid: false
+eval_fn_list:
+- psnr
+- ssim
+- lpips
+gpu: 0
+k2: null
+model:
+    model_config:
+        attention_resolutions: 16
+        channel_mult: ''
+        class_cond: false
+        dropout: 0.0
+        image_size: 256
+        learn_sigma: true
+        model_path: checkpoints/ffhq256.pt
+        num_channels: 128
+        num_head_channels: 64
+        num_heads: 4
+        num_heads_upsample: -1
+        num_res_blocks: 1
+        resblock_updown: true
+        use_checkpoint: false
+        use_fp16: false
+        use_new_attention_order: false
+        use_scale_shift_norm: true
+    name: ddpm
+name: ab_k2_cess_euler_min005_s0_20
+num_runs: 1
+project_name: DAPS
+sampler:
+    annealing_scheduler_config:
+        name: edm
+        num_steps: 200
+        sigma_max: 100
+        sigma_min: 0.1
+        timestep: poly-7
+    diffusion_scheduler_config:
+        name: edm
+        num_steps: 5
+        sigma_min: 0.01
+        solver: euler
+        timestep: poly-7
+    k2_scheduler_config:
+        ema_alpha: 0.2
+        max_step_factor: 3.0
+        min_sigma: 0.05
+        name: k2
+        target_cess: 0.9
+    latent: false
+save_dir: results
+save_samples: true
+save_traj: false
+save_traj_raw_data: false
+save_traj_video: false
+seed: 42
+show_eval: false
+task:
+    ldm:
+        mcmc_sampler_config:
+            lr: 2.1e-05
+            lr_min_ratio: 0.12
+            mc_algo: hmc
+            momentum: 0.41
+            num_steps: 65
+            prior_solver: gaussian
+            tau: 0.01
+        operator:
+            name: phase_retrieval
+            oversample: 2.0
+            sigma: 0.05
+    pixel:
+        mcmc_sampler_config:
+            lr: 5.0e-05
+            lr_min_ratio: 0.01
+            mc_algo: langevin
+            num_steps: 100
+            prior_solver: gaussian
+            tau: 0.01
+        operator:
+            name: phase_retrieval
+            oversample: 2.0
+            sigma: 0.05
+    pixel_hmc:
+        mcmc_sampler_config:
+            lr: 9.75e-06
+            lr_min_ratio: 0.019
+            mc_algo: hmc
+            momentum: 0.73
+            num_steps: 62
+            prior_solver: gaussian
+            tau: 0.01
+        operator:
+            name: phase_retrieval
+            oversample: 2.0
+            sigma: 0.05
+    sd:
+        mcmc_sampler_config:
+            lr: 0.00011
+            lr_min_ratio: 0.027
+            mc_algo: hmc
+            momentum: 0.47
+            num_steps: 95
+            prior_solver: gaussian
+            tau: 0.01
+        operator:
+            name: phase_retrieval
+            oversample: 2.0
+            sigma: 0.01
+task_group: pixel_hmc
+wandb: false
+
+Run: 0
+
+|        results         |
+|--------|-------|-------|
+|  psnr  |  ssim | lpips |
+|--------|-------|-------|
+| 13.683 | 0.281 | 0.682 |
+| 11.977 | 0.194 | 0.666 |
+| 19.768 | 0.454 | 0.400 |
+| 13.230 | 0.242 | 0.666 |
+| 27.473 | 0.684 | 0.292 |
+| 25.433 | 0.591 | 0.303 |
+| 13.376 | 0.225 | 0.692 |
+| 26.877 | 0.589 | 0.286 |
+| 11.553 | 0.199 | 0.730 |
+| 27.177 | 0.671 | 0.262 |
+| 13.918 | 0.310 | 0.722 |
+| 14.953 | 0.249 | 0.744 |
+| 13.691 | 0.184 | 0.736 |
+| 14.081 | 0.274 | 0.721 |
+| 11.587 | 0.351 | 0.707 |
+| 8.073  | 0.160 | 0.739 |
+| 12.658 | 0.353 | 0.733 |
+| 27.162 | 0.646 | 0.296 |
+| 13.181 | 0.242 | 0.708 |
+| 13.223 | 0.230 | 0.725 |
+|        |       |       |
+|  mean  |  mean |  mean |
+| 16.654 | 0.357 | 0.590 |
+|        |       |       |
+|  std   |  std  |  std  |
+| 6.219  | 0.175 | 0.189 |
+finish ab_k2_cess_euler_min005_s0_20!

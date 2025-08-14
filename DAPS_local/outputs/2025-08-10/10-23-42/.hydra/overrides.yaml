@@ -1,0 +1,15 @@
+- +data=demo-ffhq
+- +model=ffhq256ddpm
+- +task=phase_retrieval
+- +sampler=edm_daps
+- task_group=pixel
+- save_dir=results
+- num_runs=4
+- sampler.diffusion_scheduler_config.num_steps=5
+- sampler.annealing_scheduler_config.num_steps=200
+- batch_size=10
+- data.start_id=0
+- data.end_id=10
+- +sampler.k2_scheduler_config.name=k2
+- name=pr_k2_demo
+- gpu=0

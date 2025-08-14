@@ -1,0 +1,17 @@
+- +data=test-ffhq
+- +model=ffhq256ddpm
+- +task=phase_retrieval
+- +sampler=edm_daps
+- task_group=pixel
+- save_dir=results
+- num_runs=4
+- +sampler.diffusion_scheduler_config.solver=euler
+- sampler.diffusion_scheduler_config.num_steps=10
+- sampler.annealing_scheduler_config.num_steps=400
+- +eval_fn_list=[psnr, ssim, lpips]
+- save_traj=false
+- batch_size=20
+- data.start_id=0
+- data.end_id=100
+- name=pr_ula_ode10_ann400_b20_all100_bo4_full
+- gpu=0

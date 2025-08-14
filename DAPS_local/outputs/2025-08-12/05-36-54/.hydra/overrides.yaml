@@ -1,0 +1,17 @@
+- +data=test-ffhq
+- +model=ffhq256ddpm
+- +task=phase_retrieval
+- +sampler=edm_daps
+- task_group=pixel_hmc
+- save_dir=results
+- num_runs=4
+- +sampler.diffusion_scheduler_config.solver=rk4
+- sampler.diffusion_scheduler_config.num_steps=10
+- sampler.annealing_scheduler_config.num_steps=400
+- sampler.k2_scheduler_config=null
+- save_traj=false
+- batch_size=10
+- data.start_id=0
+- data.end_id=100
+- name=pr_hmc_only_ode10_ann400_b10
+- gpu=0

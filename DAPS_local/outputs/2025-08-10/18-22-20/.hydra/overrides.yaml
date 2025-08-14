@@ -1,0 +1,12 @@
+- +data=test-ffhq
+- +model=ffhq256ddpm
+- +task=phase_retrieval
+- +sampler=edm_daps
+- task_group=pixel
+- save_dir=results
+- num_runs=4
+- sampler.diffusion_scheduler_config.num_steps=5
+- sampler.annealing_scheduler_config.num_steps=200
+- batch_size=10
+- name=pr_pixel_ode5_ann200_b20
+- gpu=0

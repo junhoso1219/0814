@@ -1,0 +1,7 @@
+{
+  "total_wall_sec": 58126.68802491203,
+  "per_image_sec": 145.31672006228007,
+  "ode_steps": 10,
+  "anneal_steps_cfg": 400,
+  "used_anneal_steps": 400
+}
